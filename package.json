@@ -1,0 +1,16 @@
+{
+  "name": "instacleaner",
+  "version": "1.0.0",
+  "description": "Cleans the db of pesky emojis",
+  "main": "instacleaner.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/samuelfullerthomas/instacleaner.git"
+  },
+  "author": "Samuel Thomas",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.2",
+    "firebase-tools": "^2.2.1"
+  }
+}
